@@ -7,3 +7,5 @@ I was also unable to get the search bar to work. I tried a few different things 
 Moving forward with future versions of the application, I would first finish the project (front-end and back-end) but then I think it would be cool to add filters where the user could filter by genre, year, director, etc.
 
 I would also add a machine learning pipeline where users could "favorite movies" or select movies they have already watched, and then the ML pipeline would be able to suggest other movies to that the user that it "thinks" they would enjoy.
+
+I also think it would be cool to be able to click on an individual movie and the web application would take you to a different page and show more details about the movie.
